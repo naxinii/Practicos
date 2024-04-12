@@ -1,0 +1,30 @@
+---
+title: "Practico02"
+author: "Naxini"
+format: html
+editor: visual
+bibliography: Practico02.bib
+link-citations: true
+---
+
+## **Quarto**
+
+La escritura en Quarto tiene algunos códigos o funciones, aquí un resumen de su mayoría:
+
+## Distintos tamaños de títulos con "\##" hasta 6
+
+Cursiva \*\* *Cursiva*
+
+Negrita \*\*\*\* **Negrita**
+
+etc.
+
+Para las citas:
+
+@mijsParadoxInequalityIncome2021
+
+@efraingarcia-sanchezAttitudesRedistributionInterplay2020
+
+@thomaspikettySocialMobilityRedistributive1995
+
+Luego renderizamos

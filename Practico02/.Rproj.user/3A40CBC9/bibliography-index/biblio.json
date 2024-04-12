@@ -1,0 +1,122 @@
+{
+    "sources": [
+        {
+            "DOI": "10.1111/bjso.12326",
+            "PMID": "30977153",
+            "abstract": "Although economic inequality has increased over the last few decades, support for redistributive policies is not widely accepted by the public. In this paper, we examine whether attitudes towards redistribution are a product of both perceptions of, and beliefs about, inequality. Specifically, we argue that the association between perceived inequality and support for redistribution varies by beliefs that justify inequality. We investigated this hypothesis in a cross-cultural/country sample (N = 56,021 from 41 countries) using two different operationalizations of support for redistribution and two distinct beliefs that justify inequality. As hypothesized, the perceived size of the income gap correlated positively with believing that it is the government’s responsibility to reduce inequality among those who rejected beliefs that justify inequality, whereas there was no association for those who endorsed these beliefs. Similarly, perceived economic inequality correlated positively with support for progressive taxation, but this association was weaker among those who endorsed meritocratic and equal opportunity beliefs. Together, these results demonstrate that ideologies influence the relationship between perceived inequality and attitudes towards redistribution, and that support for redistribution varies by how the policy is framed.",
+            "annote": "MAG ID: 2937283310",
+            "author": [
+                {
+                    "literal": "Efraín García-Sánchez"
+                },
+                {
+                    "family": "García-Sánchez",
+                    "given": "Efraín"
+                },
+                {
+                    "literal": "Danny Osborne"
+                },
+                {
+                    "family": "Osborne",
+                    "given": "Danny"
+                },
+                {
+                    "literal": "Guillermo B. Willis"
+                },
+                {
+                    "family": "Willis",
+                    "given": "Guillermo B."
+                },
+                {
+                    "literal": "Rosa Rodríguez-Bailón"
+                },
+                {
+                    "family": "Rodríguez-Bailón",
+                    "given": "Rosa"
+                }
+            ],
+            "container-title": "British Journal of Social Psychology",
+            "id": "efraingarcia-sanchezAttitudesRedistributionInterplay2020",
+            "issue": "1",
+            "issued": {
+                "date-parts": [
+                    [
+                        2020,
+                        1
+                    ]
+                ]
+            },
+            "page": "111-136",
+            "title": "Attitudes towards redistribution and the interplay between perceptions and beliefs about inequality",
+            "type": "article-journal",
+            "volume": "59"
+        },
+        {
+            "DOI": "10.1093/ser/mwy051",
+            "ISSN": "1475-1461, 1475-147X",
+            "abstract": "Abstract Inequality is on the rise: gains have been concentrated with a small elite, while most have seen their fortunes stagnate or fall. Despite what scholars and journalists consider a worrying trend, there is no evidence of growing popular concern about inequality. In fact, research suggests that citizens in unequal societies are less concerned than those in more egalitarian societies. How to make sense of this paradox? I argue that citizens’ consent to inequality is explained by their growing conviction that societal success is reflective of a meritocratic process. Drawing on 25 years of International Social Survey Program data, I show that rising inequality is legitimated by the popular belief that the income gap is meritocratically deserved: the more unequal a society, the more likely its citizens are to explain success in meritocratic terms, and the less important they deem nonmeritocratic factors such as a person’s family wealth and connections.",
+            "accessed": {
+                "date-parts": [
+                    [
+                        2024,
+                        4,
+                        12
+                    ]
+                ]
+            },
+            "author": [
+                {
+                    "family": "Mijs",
+                    "given": "Jonathan J B"
+                }
+            ],
+            "container-title": "Socio-Economic Review",
+            "id": "mijsParadoxInequalityIncome2021",
+            "issue": "1",
+            "issued": {
+                "date-parts": [
+                    [
+                        2021,
+                        7
+                    ]
+                ]
+            },
+            "language": "en-US",
+            "page": "7-35",
+            "title": "The paradox of inequality: Income inequality and belief in meritocracy go hand in hand",
+            "title-short": "The paradox of inequality",
+            "type": "article-journal",
+            "volume": "19"
+        },
+        {
+            "DOI": "10.2307/2946692",
+            "abstract": "Just like economists, voters have conflicting views about redistributive taxation because they estimate its incentive costs differently. We model rational agents as trying to learn from their dynastic income mobility experience the relative importance of effort and predetermined factors in the generation of income inequality and therefore the magnitude of these incentive costs. In the long run, \"left-wing dynasties\" believing less in individual effort and voting for more redistribution coexist with \"right-wing dynasties.\" This allows us to explain why individual mobility experience and not only current income matters for political attiitudes and how persistent differences in perceptions about social mobility can generate persistent differences in redistribution across countries.",
+            "annote": "MAG ID: 2098947378",
+            "author": [
+                {
+                    "literal": "Thomas Piketty"
+                },
+                {
+                    "family": "Piketty",
+                    "given": "Thomas"
+                }
+            ],
+            "container-title": "Quarterly Journal of Economics",
+            "id": "thomaspikettySocialMobilityRedistributive1995",
+            "issue": "3",
+            "issued": {
+                "date-parts": [
+                    [
+                        1995,
+                        8
+                    ]
+                ]
+            },
+            "page": "551-584",
+            "title": "Social Mobility and Redistributive Politics",
+            "type": "article-journal",
+            "volume": "110"
+        }
+    ],
+    "project_biblios": []
+}
